@@ -1,0 +1,9 @@
+C:\Users\wliu37\Documents\GitHub\WebScrawler\WebScrawler\bin\Debug\WebScrawler.exe.config
+C:\Users\wliu37\Documents\GitHub\WebScrawler\WebScrawler\bin\Debug\WebScrawler.exe
+C:\Users\wliu37\Documents\GitHub\WebScrawler\WebScrawler\bin\Debug\WebScrawler.pdb
+C:\Users\wliu37\Documents\GitHub\WebScrawler\WebScrawler\obj\Debug\WebScrawler.csprojResolveAssemblyReference.cache
+C:\Users\wliu37\Documents\GitHub\WebScrawler\WebScrawler\obj\Debug\WebScrawler.Main.resources
+C:\Users\wliu37\Documents\GitHub\WebScrawler\WebScrawler\obj\Debug\WebScrawler.Properties.Resources.resources
+C:\Users\wliu37\Documents\GitHub\WebScrawler\WebScrawler\obj\Debug\WebScrawler.csproj.GenerateResource.Cache
+C:\Users\wliu37\Documents\GitHub\WebScrawler\WebScrawler\obj\Debug\WebScrawler.exe
+C:\Users\wliu37\Documents\GitHub\WebScrawler\WebScrawler\obj\Debug\WebScrawler.pdb

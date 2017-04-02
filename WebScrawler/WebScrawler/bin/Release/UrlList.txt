@@ -1,0 +1,5 @@
+https://www.linkedin.com/feed/
+https://lostechies.com/ryansvihla/2014/09/22/cassandra-auth-never-use-the-cassandra-user-in-production/
+http://www.pdf995.com/samples/pdf.pdf
+http://ec.europa.eu/idabc/servlets/Doc563b.doc?id=18629
+https://codeload.github.com/lawenliu/WebSpider/zip/master
